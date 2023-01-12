@@ -25,7 +25,7 @@ Second Step, try to create an new files (filename.md), and write some text in it
 The following is the link about some text format. https://commonmark.org/help/
 After you finshed it, then just "Commit Changes", and you should be able to see your files! 
 
-Tips about uploading picture, you have to download your pic in your desktop, ex "pic1.png", then go to your Github pages, add files then upload the pic1.png in your account. Then, uses the text format upload above, and you should be able to upload. 
+Tips about uploading picture, you need to download your pic into your desktop, ex "pic1.png". Then go to your Github pages, click add files and then upload the pic1.png to your Github files. Then, uses the text format upload above. For pics either "pic1.png or the whole link". Then, refresh your pages and go to Setting, then click "Pages" and copy your own account link. Put your new files name and add "html" at the end of your links. Then, you should be able to see your new files pages. 
 
 ---END---
 
