@@ -1,7 +1,7 @@
 Hello new classmates! The following is some instruction about how to setting up your VS Code! 
 The First Step, Installing VScode (Work both Mac or Window)
 
-![Image](https://github.com/KAYIWONG/cse15l-lab-report/blob/main/pic1.png)
+![Image](pic1.png)
 
 
 The Second Step, try to remotely Connecting to our UCSD Account. 
