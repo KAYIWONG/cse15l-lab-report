@@ -25,4 +25,8 @@ Second Step, try to create an new files (filename.md), and write some text in it
 The following is the link about some text format. https://commonmark.org/help/
 After you finshed it, then just "Commit Changes", and you should be able to see your files! 
 
+Tips about uploading picture, you have to download your pic in your desktop, ex "pic1.png", then go to your Github pages, add files then upload the pic1.png in your account. Then, uses this format, ![Image](https://github.com/KAYIWONG/cse15l-lab-report/blob/main/xxx.png), and you should be able to upload. 
+
+---END---
+
 
