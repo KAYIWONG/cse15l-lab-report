@@ -9,17 +9,17 @@ For my account is: cs15lwi23aow
 Then you should be able to login with your own passwords. 
 (If it is blank, you should still typing it)
 
-![Image](https://github.com/KAYIWONG/cse15l-lab-report/blob/main/pic2.png)
+![Image](pic2.png)
 
 
 The Third Step, Trying Some Commands. After you successfully login to your UCSD account, you can now try some command. Such as, cd/pwd/ls..
 
-![Image](https://github.com/KAYIWONG/cse15l-lab-report/blob/main/pic3.png)
+![Image](pic3.png)
 
 Nexts,is some tips about how get familiar with Github. (how to create account and how to upload pics!)
 First Step, go to https://github.com/, and sign up for a new account. 
 
-![Image](https://github.com/KAYIWONG/cse15l-lab-report/blob/main/pic4.png)
+![Image](pic4.png)
 
 Second Step, try to create an new files (filename.md), and write some text in it. 
 The following is the link about some text format. https://commonmark.org/help/
