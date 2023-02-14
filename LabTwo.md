@@ -10,11 +10,16 @@ if name[0]=s, then name[1] is being add to our arraylist. So the final output of
 The next pictures is a screenshot from Lab 2, which showing the Output. 
 ![Image](pic11.png)
 
-Next, we going to Part Two. The following picture is the code from "ArrayExamples.java". 
+Next, we going to Part Two. The following picture is the code from "ArrayExamples.java". So in this code, we are going to reverse all the input elements and return a new array. 
 ![Image](pic12.png)
-There are so many bugs. This file ArrayTests.java has some tests for the methods in ArrayExamples.java, and usingh JUnit to run tests using methods called assertEquals and assertArrayEquals.
-The first bugs that I found in our group, is to test the reverse method. 
+
+This file has some tests for the methods in ArrayExamples.java, and usingh JUnit to run tests using methods called assertEquals and assertArrayEquals. The first bugs that I found is this code is only return the old array "arr",. 
 ![Image](pic13.png)
+
 ![Image](pic14.png)
+
 ![Image](pic15.png)
-Note: Instead of using "arr" to return the new array, we should assigning a newArray in this for loop. In our group discussion, the orginal code Only works correct for half the array, so we should use a new array instead and assign it to the old array after iterating. 
+
+How can we fix it? Instead of using "arr" to return the new array, we should assigning a newArray in this for loop. For example, arr[i]=newAarray[arr.length - i -1], arr[i] is equal to 0. In our group discussion, the orginal code only works correct for half the array, so we should use a new array instead and assign it to the old array after iterating. 
+
+Last, we going to Part Three. Describe something I learned from lab in week 2 or 3. For me, a lot of knowledge learned in this class is new, especially the specific skills learned in the lab. Including how to use github smoothly, and how to find bugs in the code and modify and optimize.
