@@ -13,3 +13,8 @@ The next pictures is a screenshot from Lab 2, which showing the Output.
 Next, we going to Part Two. The following picture is the code from "ArrayExamples.java". 
 ![Image](pic12.png)
 There are so many bugs. This file ArrayTests.java has some tests for the methods in ArrayExamples.java, and usingh JUnit to run tests using methods called assertEquals and assertArrayEquals.
+The first bugs that I found in our group, is to test the reverse method. 
+![Image](pic13.png)
+![Image](pic14.png)
+![Image](pic15.png)
+Note: Instead of using "arr" to return the new array, we should assigning a newArray in this for loop. In our group discussion, the orginal code Only works correct for half the array, so we should use a new array instead and assign it to the old array after iterating. 
