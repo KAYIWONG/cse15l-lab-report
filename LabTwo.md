@@ -4,7 +4,7 @@ In part Two, I will choose One bugs from week 3 lab and provided some detailed i
 In part Three, i will summarazied knowledge that I learned from week 2 and 3.
 
 Let's get start in Part One! 
-![pic10.png]
+![Image](pic10.png)
 ![pic11.png]
 This picture is the lab picture from week 2.
 First, I'm trying to use "add" method to add "banana" to the list. For "/add" in the path, 
