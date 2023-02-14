@@ -10,3 +10,6 @@ if name[0]=s, then name[1] is being add to our arraylist. So the final output of
 The next pictures is a screenshot from Lab 2, which showing the Output. 
 ![Image](pic11.png)
 
+Next, we going to Part Two. The following picture is the code from "ArrayExamples.java". 
+![Image](pic12.png)
+There are so many bugs. This file ArrayTests.java has some tests for the methods in ArrayExamples.java, and usingh JUnit to run tests using methods called assertEquals and assertArrayEquals.
