@@ -1,6 +1,9 @@
 There are three part in this week's lab report. 
+
 In part One, I will follow the instrustion and write a web server called StringServer. It include the code forStringServer, and two screenshots of using /add-message.
+
 In part Two, I will choose One bugs from week 3 lab and provided some detailed information. 
+
 In part Three, i will summarazied knowledge that I learned from week 2 and 3.
 
 Let's get start in Part One! ![Image](pic10.png)
