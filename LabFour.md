@@ -23,3 +23,7 @@ Step 3: If we want to To exit input mode, I will use the "esc" key on my labtop.
 Step 4: After I changed all three parameters have been changed to "base", in this step is to save the changes to the file.
 To save the changes made to the file, I will use the command ":wq<enter>". This will save the file and exit the file editor. 
 Once the file is saved, the first part of the task is complete.
+
+
+Part 2: 
+In this is the second part of my ab report I would provide a summary of the data collected during the completion of the task. The first method was completed in 2 minutes and 46 seconds, while the second method was completed in 1 minute and 18 seconds. The data collected during the completion of the task showed that the second method was faster and more efficient. I would prefer the second one which was completed in 1 minute and 18 seconds.
