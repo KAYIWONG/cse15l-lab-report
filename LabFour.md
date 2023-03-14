@@ -5,4 +5,4 @@ Step 1: Accessing the DocSeachSever.java File
 To begin the task, the first step is to access the DocSeachSever.java file. 
 I would using the command: vim<space> D<tag><enter>. 
 This file was downloaded from the Lab GitHub page. The screenshot below shows the file being accessed using the vim command:
-
+(pic20.png)
